@@ -17,6 +17,6 @@ beautifulsoup
 selenium
 NetworkX
 Warnings
-uvicorn
+gunicorn
 fastapi 
 joblib
